@@ -257,7 +257,7 @@ export const categories = [
         items: [
             {
                 title: "Grifinória",
-                img: "../../assets/perfil_1_brasao_grifinoria2.png",
+                img: "https://eliasofreitas.github.io/front-end-IA-HP-Flix/assets/perfil_1_brasao_grifinoria2.png",
                 top10: true,
                 badge: "Nova temporada",
                 badgeColor: "red",
