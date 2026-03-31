@@ -265,20 +265,20 @@ export const categories = [
             },
             {
                 title: "Sonsrina",
-                img: "../../assets/perfil_2_brasao_sonserina2.png",
+                img: "https://eliasofreitas.github.io/front-end-IA-HP-Flix/assets/perfil_2_brasao_sonserina2.png",
                 top10: true,
                 youtube: "https://www.youtube.com/watch?v=bu60uvXG0bM"
             },
             {
                 title: "Corvinal",
-                img: "../../assets/perfil_3_brasao_corvinal.webp",
+                img: "https://eliasofreitas.github.io/front-end-IA-HP-Flix/assets/perfil_3_brasao_corvinal.webp",
                 badge: "Novo episódio",
                 badgeColor: "red",
                 youtube: "https://www.youtube.com/watch?v=064j9AwexKw"
             },
             {
                 title: "Lufa Lufa",
-                img: "../../assets/perfil_4_brasao_lufa_lufa.webp",
+                img: "https://eliasofreitas.github.io/front-end-IA-HP-Flix/assets/perfil_4_brasao_lufa_lufa.webp",
                 badge: "Novidade",
                 badgeColor: "red",
                 youtube: "https://www.youtube.com/watch?v=2zMTYGCMtR8"
